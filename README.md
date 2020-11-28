@@ -1,4 +1,4 @@
-# Abnormality detection on Zero-bias Deep Neural Networks
+# Abnormality Detection and Continual Learning on Zero-bias Deep Neural Networks
 
 This repository hosts vital files of my work using zero-bias deep neural networks for abnormality detection.
 
