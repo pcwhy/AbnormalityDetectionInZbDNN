@@ -1,6 +1,8 @@
 # Abnormality Detection and Continual Learning on Zero-bias Deep Neural Networks (DNN)
 
-This repository hosts vital files of my work using zero-bias deep neural networks for abnormality detection.
+This repository hosts vital files of my work using zero-bias deep neural networks for abnormality detection. 
+
+Please be noted that this repository will be updated continuously.
 
 ## Datasets
 Remember to download dataset (real ADS-B signals, in I/Q format with a sample rate 8MHz, at Daytona Beach International Airport) from the following urls:
@@ -12,7 +14,7 @@ https://drive.google.com/uc?export=download&id=1N-eImoAA3QFPu3cBJd-1WIUH0cqw2RoT
 Or:
 https://ieee-dataport.org/open-access/24-hour-signal-recording-dataset-labels-cybersecurity-and-iot
 
-## Code files
+## Code files descriptions
 ### zbAbnormalityDetectionRealData.m
 is the main entry using zero-bias DNN for abnormality detection as well as visualizing the decision boundaries of zero-bias DNN
 
