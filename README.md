@@ -1,4 +1,4 @@
-# AdaBelief-Matlab
+# Abnormality detection on Zero-bias Deep Neural Networks
 
 [![DOI](https://zenodo.org/badge/308234256.svg)](https://zenodo.org/badge/latestdoi/308234256)
 
