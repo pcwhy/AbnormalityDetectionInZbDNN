@@ -1,4 +1,4 @@
-# AbnormalityDetectionInZbDNN
+# Abnormality Detection In Zero-bias Deep Neural Networks
 
 This is the public code repository for using the zero-bias DNN for abnormality detection & continual learning.
 
