@@ -24,5 +24,5 @@ is a toy example using MNIST data to show the normal and abnormal data in zero-b
 ### abContinualLearning.m
 Implement continual learning on zero-bias DNN. Especially, it contains codes for Elastic Weight Consolidation and how to use custom loop to train a DNN on real data.
 
-### hypersphereLib/hypersphereCoverageTest.m
+### HypersphereLib/hypersphereCoverageTest.m
 A numerical simulation to show theoretically how many different new classes (fingerprints) can be learned from the perspective of zero-bias DNN.
