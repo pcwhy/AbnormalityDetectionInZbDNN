@@ -26,3 +26,6 @@ Implement continual learning on zero-bias DNN. Especially, it contains codes for
 
 ### HypersphereLib/hypersphereCoverageTest.m
 A numerical simulation to show theoretically how many different new classes (fingerprints) can be learned from the perspective of zero-bias DNN.
+
+### DroneRF_Matlab
+We use the DroneRF dataset to verify the effectiveness of our methods.
